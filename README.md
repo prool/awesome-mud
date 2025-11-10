@@ -33,11 +33,18 @@ Want to add your awesome MUD resource? Make the change and [open a pull request]
 
 _Log in and play._
 
+- [axmud](https://axmud.sourceforge.io/) - A modern Multi-User Dungeon (MUD) client written in Perl 5 / Gtk3
 - [Blightmud](https://github.com/LiquidityC/Blightmud) -  A mud client for the terminal
 - [BlowTorch](https://bt.happygoatstudios.com/) - A MUD client for Android.
+- JMC - Jaba MUD Client forks: [by conelav](https://github.com/konelav/jmc) and [by nerevar](https://nerevar.github.io/jmc/)
+- [KBtin](https://github.com/kilobyte/kbtin) - TinTin++-style MUD client
+- [mmc](https://sourceforge.net/projects/mmc-kerd/) - the MUD client for UNIX and Win32
+- [muddle](https://github.com/gvanderest/muddle) - Electron-Based MUD Client 
 - [Mudlet](https://github.com/Mudlet/Mudlet) - A cross-platform, MUD client with scripting in Lua.
 - [MUDRammer](https://github.com/splinesoft/MUDRammer) - Modern MUD client for the iPhone and iPad.
+- [powwow](https://github.com/MUME/powwow)
 - [TinTin++](http://tintin.sourceforge.net/) - Cross-platform, command line MUD client.
+- [Tortilla](https://github.com/tmud/tortilla)
 
 ## Codebases
 
@@ -51,6 +58,7 @@ _Active and retired MUD codebases._
 - [DikuMUD3](https://github.com/Seifert69/DikuMUD3) - Latest DikuMID release with HTML and websockets support.
 - [DUM](https://github.com/wowpin/dumserver) - A modern Python MU* engine.
 - [DragonMUD](https://github.com/bbuck/dragon-mud) - MUD engine in GO.
+- [EmpireMUD](https://github.com/EmpireMUD/EmpireMUD-2.0-Beta) - EmpireMUD is a MUD server with a persistent world map. It is a derivative of CircleMUD and DikuMUD. 
 - [Evennia](https://github.com/evennia/evennia) - Python MUD/MUX/MUSH/MU* development system.
 - [ExVenture](https://github.com/oestrich/ex_venture) - Elixir based MUD engine.
 - [FluffOS](https://github.com/fluffos/fluffos) - actively maintained LPMUD driver, based on the last release of MudOS.
@@ -61,6 +69,7 @@ _Active and retired MUD codebases._
 - [RockMUD](https://github.com/MoreOutput/RockMUD) - Node.js-based WebSockets-capable MUD server.
 - [room.js](https://github.com/doughsay/room.js) - Node.js-based MUD/MOO engine.
 - [Tale](https://github.com/irmen/Tale) - Mud, mudlib & interactive fiction framework.
+- [tbaMUD](https://github.com/tbamud/tbamud) - tbaMUD is the continued development of the codebase formerly known as CircleMUD
 
 ## Protocols
 
