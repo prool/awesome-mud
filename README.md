@@ -96,4 +96,3 @@ _Connect with other MUD enthusiasts._
 
 - [The MUD Coders Guild](https://mudcoders.com) - Slack community for text-based game developers.
 - [r/MUD](https://www.reddit.com/r/MUD) - Reddit's official MUD community.
-- [Titans of Text](https://www.titansoftext.com/) - MUD related podcast
