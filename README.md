@@ -44,7 +44,8 @@ _Log in and play._
 - [MUDRammer](https://github.com/splinesoft/MUDRammer) - Modern MUD client for the iPhone and iPad.
 - [powwow](https://github.com/MUME/powwow)
 - [TinTin++](http://tintin.sourceforge.net/) - Cross-platform, command line MUD client.
-- [Tortilla](https://github.com/tmud/tortilla)
+- [Tortilla](https://github.com/tmud/tortilla) - JMC-like client
+- [Mukluk](https://github.com/DanCaprine/Mukluk) - MUD client for Android
 
 ## Codebases
 
